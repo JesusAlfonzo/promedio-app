@@ -5,4 +5,4 @@ Ingresa tus tres primeras notas cuando se te soliciten para poder sumarlas y sac
 Luego, ingresa la cuarta nota cuando se te solicite para sacar el 30% de la cuarta nota.
 Luego, ingresa la ultima nota cuando se te solicite para sacar el 15% de la ultima nota.
 
-en pantalla se le mostrara el resultado de las operaciones (promedios) y al final su promedio final y si el estudiante aprobo o no la materia en cuestion.
+en pantalla se le mostrara el resultado de las operaciones, (promedios) y al final su promedio final y si el estudiante aprobo o no la materia en cuestion.
