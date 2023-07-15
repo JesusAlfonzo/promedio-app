@@ -7,4 +7,4 @@ Luego, ingresa la ultima nota cuando se te solicite para sacar el 15% de la ulti
 
 en pantalla se le mostrara el resultado de las operaciones, (promedios) y al final su promedio final y si el estudiante aprobo o no la materia en cuestion.
 
-ejemplo
+casa
